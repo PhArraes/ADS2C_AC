@@ -1,0 +1,25 @@
+Design -
+
+O sistema deve cadastrar e autenticar os usuários através de login e senha ou api Facebook
+O sistema deve cadastrar e autenticar os motoristas através de login e senha
+O sistema deve permitir que o usuário cadastre e valide os dados do cartão de crédito
+O sistema deve ter acesso a localização do usuário através do satélite
+O sistema deve ter acesso a localização dos carros através do satélite
+O sistema deve ter acesso a velocidade do carro para segurança da viagem através do satélite
+O sistema deve ter acesso ao sensor de proximidade para evitar colisões
+O sistema deve ter acesso ao sensor de altura para evitar que o carro voe muito alto
+
+
+Sistemas operacionais:
+Android e IOS (Devido serem os dois sistemas operacionais mais utilizados em SmartPhones no mercado).
+
+Linguagem de programação:
+Swift (Linguagem de programação de App'’ para Sistema operacional IOS);
+Java (Uma das linguagens de programação mais utilizada para ANDROID);
+Escolha de App's Nativos para implementações futuras.
+Servidor: Amazon(Devido ter maior estabilidade e segurança e uma grande referência inclusive em recursos)
+
+
+Conciliação bancária: Paypal (Fornece recursos para conciliação bancária do App entre usuários, motoristas e o APP, juntamente com segurança e qualidade no mercado)
+
+Banco de dados: Mysql (Devido termos maior conhecimento operacional, custo benefício, )

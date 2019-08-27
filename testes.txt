@@ -1,0 +1,59 @@
+Teste:
+
+Usuário:
+Login e senha (Com e-mail ou através de API do Facebook);
+Validar e-mail ou acesso através do FaceBook
+ Sucesso siga para o próximo passo/E-mail não válido, facebook não encontrado(Tente novamente)
+
+Cadastro do cartão de crédito; 
+Reconhecimento de bandeira, código de segurança, validade do cartão/ Cartão não identificado, sem validade.
+
+
+Busca do destino;
+Localizar motorista em proximidade disponível;
+Destino em raio máximo de até 10 KM / Viagem não aprovada por distância
+
+Visualizar dados do motorista (Informações de carro, placa, modelo, marca, e avaliação do motorista);
+(Sistema deverá escolher o motorista com nota próxima do Usuário nas avaliações)
+
+Mensagem de que o carro chegou e de que o usuário pode embarcar em endereço de sua localização;
+(Após embarque motorista deverá confirmar início de viagem)
+
+Após concluída viagem Avaliação (Motorista e carro);
+
+Interface Motorista:
+
+
+Motorista:
+Cadastro com informações pessoais, e-mail, CNH e documento do Veículo e conta ;
+Validação de e-mail, CNH e documento do veículo e conta bancária, caso aprovado enviar acesso através de e-mail/ Caso não aprovado também enviar notificação e erro de validação encontrado. 
+
+Login e senha (Receberá acesso através do e-mail com validação);
+(Apenas se todas informações de cadastro forem validadas);
+
+Após logado alterar status para disponível e aguardar solicitação de viagem pelo usuário em um raio de até 10 KM);
+(Se o status estiver disponível, disponibilizar requisições de viagens de um raio de até 10KM e com passageiros com média de avaliação iguais a do Motorista);
+
+Confirmar solicitação e seguir orientação do App para o embarque do usuário;
+(A rota até o Usuário apenas ficará disponível após aprovação do notorista)
+
+Após embarque do passageiro deverá se locomover até o destino do usuário;
+(O motorista deverá sinalizar que chegou em destino);
+
+Avaliação do usuário após chegada do destino(Comportamento durante a viagem);
+(Toda informação coletada será enviada ao registro do usuário para se compor sua nota de avaliação);
+
+Área de Saldo disponível das viagens percorridas e solicitação de resgate de valor;
+(A solicitação de resgate será possível apenas 1x por semana, caso solicitado mais de 1x a requisição será negada);
+
+App Manager (Gerenciador);
+Login e senha disponibilizado através de backoffice;
+(Acesso permitido através de Intranet);
+
+Monitoramento às informações de viagens, avaliações, motoristas, usuários, extratos de valores dos motoristas;
+(Sistema indicará motoristas e passageiros inadequados);
+
+Acesso às reclamações de usuários, exclusão de motoristas e passageiros;
+
+Relatório de desempenho de processamento, atualizações, rendimentos e Bugs;
+Opção para comunicação com motorista e Usuário;

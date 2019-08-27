@@ -1,0 +1,20 @@
+Codificação:
+
+Interface Usuário(Passageiro): 
+Login e senha (Com e-mail ou através de API do Facebook);
+Cadastro do cartão de crédito; 
+Busca do destino;
+Localizar motorista em proximidade disponível;
+Visualizar dados do motorista (Informações de carro, placa, modelo, marca, e avaliação do motorista);
+Mensagem de que o carro chegou e de que o usuário pode embarcar no endereço de sua localização;
+Após concluída viagem Avaliação (Motorista e carro);
+
+
+
+Interface App Manager (Gerenciador);
+Login e senha disponibilizado através de backoffice;
+Monitoramento às informações de viagens, avaliações, motoristas, usuários, extratos de valores dos motoristas;
+Acesso às reclamações de usuários, exclusão de motoristas e passageiros;
+Relatório de desempenho de processamento, atualizações, rendimentos e Bugs;
+Opção para comunicação com motorista e Usuário;
+

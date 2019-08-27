@@ -1,0 +1,15 @@
+Autenticação de usuários - ok
+Autenticação dos motoristas - ok
+Cadastro dos carros e motoristas - ok
+Cadastros dos passageiros - ok
+cadastro da forma de pagamento (cartão de crédito) - ok
+acesso ao gps dos passageiros - ok
+acesso ao gps dos carros - ok
+Limitador de velocidade - ok
+Sensor de proximidade - ok
+Cadastro de línguas -ok
+Sensor de altura - ok 
+Fórmula para o cálculo dos preços limitada a 10 dólares
+Avaliação da viagem (NPS)
+emissão de recibo/nfe
+histórico das 5 últimas corridas
