@@ -1,0 +1,5 @@
+Operação:
+
+Análise de número de usuários logados para subir ou descer novos servidores para melhor desempenho;
+Análise de tempo para correção de bugs e melhorias;
+Análise de segurança (Relatório de acessos e log de ações por usuário);
